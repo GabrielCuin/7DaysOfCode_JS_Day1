@@ -13,13 +13,3 @@ body {
     flex-direction: column;
     height: 100vh ;
 }
-
-#texto {
-    margin-bottom: 3rem;
-}
-
-.botao {
-    margin-bottom: 1rem;
-    border: 1px solid black;
-    padding: 1rem;
-}
